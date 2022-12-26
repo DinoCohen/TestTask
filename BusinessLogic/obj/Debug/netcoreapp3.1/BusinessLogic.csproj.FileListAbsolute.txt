@@ -1,0 +1,13 @@
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\DC250456\source\repos\TestTask\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

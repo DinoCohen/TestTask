@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UaVPgfnWd2x5TdUNbjHrS36u4uIuWeKtyaD6+IbnvWnF1bGh3JekWhjw51Wp9rFyvKMo3D6gW+8LEz0eAiIvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DC250456\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DC250456\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

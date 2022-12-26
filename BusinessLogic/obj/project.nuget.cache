@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VENeyYQNPcTV9BXZMrBzgxh9anZdY+/LABH1tpiARimymRdhVxM4msyl064qiOhtT2YgpK4+6SyAlpZy+rDElA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DC250456\\source\\repos\\TestTask\\BusinessLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DC250456\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\DC250456\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
